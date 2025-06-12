@@ -1,0 +1,59 @@
+.h_100{
+	height: 100px;
+}
+.header{
+	/*height:100px;*/
+	background-color: red;
+}
+.heigh{
+	min-height: 10px;
+	background-color: yellow;
+}
+.heig{
+	max-height: 10px;
+	background-color: blue;
+}
+.container{
+	/*border: 5px solid chocolate;
+	/*border-radius: ;*/
+	border-top-right-radius: 10px;*/
+overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 70%;
+height: 200px;
+background-color: green;
+}
+.contact{
+	float: right;
+	width: 30%;
+height: 200px;
+background-color: blue;
+}
+/*.wrapper{
+overflow: hidden;
+}*/
+.item1{
+	float: left;
+	width: 33.33%;
+height: 100px;
+background-color: darkred;
+}
+.item2{
+	float: left;
+	width: 33.33%;
+height: 100px;
+background-color: skyblue;
+}
+.item3{
+	float: left;
+	width: 33.33%;
+height: 100px;
+background-color: teal;
+}
+.footer{
+	clear: both;
+height: 100px;
+	background-color: magenta;
+}
